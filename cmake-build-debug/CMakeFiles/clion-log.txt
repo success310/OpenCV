@@ -1,0 +1,4 @@
+/home/ivan/Uni/parasys/cmake-3.9.4/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ivan/CLionProjects/OpenCV
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ivan/CLionProjects/OpenCV/cmake-build-debug

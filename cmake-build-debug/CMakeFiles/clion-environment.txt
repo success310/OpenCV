@@ -1,0 +1,2 @@
+Options: 
+CMake: 3.9.4@/home/ivan/Uni/parasys/cmake-3.9.4/bin/cmake
